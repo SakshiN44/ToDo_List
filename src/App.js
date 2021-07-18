@@ -53,7 +53,7 @@ function App() {
       borderradius: "10px",
       paddingTop: "30px",
       paddingBottom: "60px",
-      paddingLeft: "80px",
+      paddingLeft: "20px",
       alignItems: "center",
       backgroundColor: 'rgba(255, 255, 255, 0.10)',
       maxWidth: "600px",
